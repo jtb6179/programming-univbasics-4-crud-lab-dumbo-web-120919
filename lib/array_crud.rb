@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  foods_I_Hate = ["cheese", ""]
+  foods_I_Hate = ["Any thing with cheese", "onions", "freshly killed meat exclusively","sautteed viatnamese food"]
 end
 
 def add_element_to_end_of_array(array, element)
