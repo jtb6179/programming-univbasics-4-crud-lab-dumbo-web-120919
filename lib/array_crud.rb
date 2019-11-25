@@ -12,7 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  music_I_love = ["Avenged Sevenfold", "Tool", "My Chemical Romance", "Alice in Chains"]
+  music_I_love.unshift 
 end
 
 def remove_element_from_end_of_array(array)
