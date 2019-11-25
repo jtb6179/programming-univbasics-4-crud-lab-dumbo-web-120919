@@ -18,11 +18,12 @@ end
 
 def remove_element_from_end_of_array(array)
   music_I_love = ["Avenged Sevenfold", "Tool", "My Chemical Romance", "Alice in Chains"]
-  music_I_love.pop
+  x = music_I_love.pop
 end
 
 def remove_element_from_start_of_array(array)
-  
+   music_I_love = ["Panic at the disco","Avenged Sevenfold", "Tool", "My Chemical Romance", "Alice in Chains"]
+   t = music_I_love.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
