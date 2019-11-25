@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  music_I_love = ["Avenged Sevenfold", "Tool", "My Chemical Romance", "Alice in Chains"]
+  music_I_love << "Alexisonfire (guilty pleasure)"
 end
 
 def add_element_to_start_of_array(array, element)
